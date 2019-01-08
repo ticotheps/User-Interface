@@ -96,3 +96,37 @@ h1, h2, h3, h4, h5 {
 #footer {
 	border-top: 1px solid black;
 }
+
+.main-container-top {
+
+}
+
+.main-container-middle {
+	display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.main-container-bottom {
+
+}
+
+.section-features {
+	display: inline-block;
+    width: 50%;
+}
+
+.section-about {
+	display: inline-block;
+    width: 49%;
+}
+
+.middle-img {
+	display: inline-block;
+	width: 90%;
+}
+
+.section-services, .section-product, .section-vision {
+	display: inline-block;
+    width: 33%;
+}
