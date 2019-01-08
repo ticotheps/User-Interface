@@ -85,6 +85,14 @@ h1, h2, h3, h4, h5 {
 	display: inline-block;
 }
 
+h1 {
+	font-size: 75px;
+}
+
+.header-button {
+	border: 1px solid black;
+}
+
 .snippet-image-container {
 	display: inline-block;
 }
@@ -129,4 +137,8 @@ h1, h2, h3, h4, h5 {
 .section-services, .section-product, .section-vision {
 	display: inline-block;
     width: 33%;
+}
+
+.copyright-container {
+	text-align: center;
 }
